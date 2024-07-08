@@ -1,5 +1,5 @@
 # Game Engine GUI
-
+![Java 21](https://img.shields.io/badge/java_21-%23F80000?style=for-the-badge&logo=oracle)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Vaadin Flow](https://img.shields.io/badge/vaadin_flow-%2300B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/Junit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
