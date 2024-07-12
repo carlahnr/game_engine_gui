@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/./frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "/Users/carla/Documents/UP/2024-1/ASW/trab3/ASW-Trab3/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
